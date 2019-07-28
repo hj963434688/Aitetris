@@ -1,2 +1,5 @@
-Git is a distributed version control system.
-Git is free software.
+AI版俄罗斯方块
+  目前支持两种模式：
+   手动体验--玩家自己玩
+   ai模式--电脑自动玩
+   神经网络训练模式暂时没有完善
